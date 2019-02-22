@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialPhone</string>
+    <string name="enter_phone_hint">Enter Phone</string>
+</resources>
